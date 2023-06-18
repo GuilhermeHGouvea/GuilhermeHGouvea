@@ -4,4 +4,4 @@
 - 🌱 Estudando Front-End
 - 😄 Pronouns: ele/dele
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHGouvea)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHGouvea&show_icons=true&theme=dark)
